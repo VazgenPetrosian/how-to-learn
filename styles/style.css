@@ -259,8 +259,8 @@
 }
 
 .footer__columns {
-  margin-top: 60px;
-  margin-bottom: 40px;
+  border: 1px solid red;
+  margin: 60px auto 40px auto;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
